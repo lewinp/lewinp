@@ -11,10 +11,10 @@
 ![Laravel](https://img.shields.io/badge/Laravel-Beginner-red)
 
 - 🔭 I’m currently working on **Manggala Teknologi Nusantara** 
-- 🌱 I’m currently learning **Laravel**, **Vuejs**, **WordPress**, **Laravel** and **React**
+- 🌱 I’m currently learning **Laravel**, **Vuejs**, **WordPress**, **Laravel**
 - ⚙️ Mastering: `.html`,`.css`
 - 👯 I’m looking to collaborate on **Open Source** projects
-- 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Quora**
+- 💬 I'm mostly active within the **Facebook**, **Instagram** and **Quora**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
