@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/Vue-Beginner-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Beginner-red)
 
-- 🔭 I’m currently working on **Manggala Teknologi Nusantara** 
+- 🔭 I’m currently working on **Teknologi Nusantara** 
 - 🌱 I’m currently learning **Laravel**, **Vuejs**, **WordPress**, **Laravel**
 - ⚙️ Mastering: `.html`,`.css`
 - 👯 I’m looking to collaborate on **Open Source** projects
