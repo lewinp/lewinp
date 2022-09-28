@@ -5,9 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+![PHP](https://img.shields.io/badge/PHP-Beginner-lightblue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
-![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
 ![React](https://img.shields.io/badge/React-Beginner-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Beginner-red)
 
