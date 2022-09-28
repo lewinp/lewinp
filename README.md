@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Beginner-lightblue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
-![React](https://img.shields.io/badge/React-Beginner-blue)
+![React](https://img.shields.io/badge/Vue-Beginner-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Beginner-red)
 
 - 🔭 I’m currently working on **Manggala Teknologi Nusantara** 
