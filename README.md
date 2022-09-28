@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Manggala Teknologi Nusantara** 
 - 🌱 I’m currently learning **Laravel**, **Vuejs**, **WordPress**, **Laravel** and **React**
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
+- ⚙️ Mastering: `.html`,`.css`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Quora**
 
