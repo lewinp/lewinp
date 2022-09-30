@@ -12,6 +12,7 @@
 ![Laravel](https://img.shields.io/badge/Figma-Expert-brown)
 ![Laravel](https://img.shields.io/badge/Photoshop-Expert-black)
 ![Laravel](https://img.shields.io/badge/Illustrator-Expert-green)
+![Laravel](https://img.shields.io/badge/AfterEffect-Expert-blue)
 
 - 🔭 I’m currently working on **Teknologi Nusantara** 
 - 🌱 I’m currently learning **Laravel**, **Vuejs**, **WordPress**, **Figma**
