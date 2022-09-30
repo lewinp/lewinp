@@ -9,9 +9,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
 ![React](https://img.shields.io/badge/Vue-Beginner-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Beginner-red)
+![Laravel](https://img.shields.io/badge/Figma-Expert-brown)
+![Laravel](https://img.shields.io/badge/Photoshop-Expert-black)
+![Laravel](https://img.shields.io/badge/Illustrator-Expert-green)
 
 - 🔭 I’m currently working on **Teknologi Nusantara** 
-- 🌱 I’m currently learning **Laravel**, **Vuejs**, **WordPress**, **Laravel**
+- 🌱 I’m currently learning **Laravel**, **Vuejs**, **WordPress**, **Figma**
 - ⚙️ Mastering: `.html`,`.css`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **Facebook**, **Instagram** and **Quora**
