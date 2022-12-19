@@ -26,9 +26,6 @@
 <a href="https://www.youtube.com/channel/UC17jin70Pt3DCfN4E6gZzbQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=LewinsHp&&theme=xcode)](https://github.com/LewinsHp)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LewinsHp&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="LewinsHp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LewinsHp&show_icons=true&locale=en&theme=tokyonight" alt="LewinsHp" /></p>
