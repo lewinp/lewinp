@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/f992fcad6f858cc29612cfb7ac9cff63ed0ded9ba64be849a3f7ac18c1356933/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a67337a6352536a5575353070375f31627263396332512e676966)](https://winns.my.id)
+[![Lewin]![Alt Text](https://user-images.githubusercontent.com/69864986/160632746-f60ebe1d-1d4f-4cee-b066-39892799eec8.gif)](https://winns.my.id)
 <h1 align="center">Hello, I'm Lewin 👋🏻</h1>
 <h3 align="center">Junior Web Designer & Web Developer located in Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
