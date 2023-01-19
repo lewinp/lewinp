@@ -1,6 +1,6 @@
 [![Lewin]![Alt Text](https://user-images.githubusercontent.com/69864986/160632746-f60ebe1d-1d4f-4cee-b066-39892799eec8.gif)](https://winns.my.id)
 <h1 align="center">Hello, I'm Lewin 👋🏻</h1>
-<h3 align="center">Junior Web Designer & Web Developer located in Indonesia</h3>
+<h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
@@ -13,7 +13,7 @@
 ![AfterEffect](https://img.shields.io/badge/AfterEffect-Expert-blue)
 
 - 🔭 I’m currently working on **BIT BATAM** 
-- 🌱 I’m currently learning **Laravel**, **WordPress**, **Figma**
+- 🌱 I’m currently learning **Laravel**, **WordPress**, **Vue Js**
 - ⚙️ Mastering: `.html`,`.css`,`.scss`,`.tailwind`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **Facebook**, **Instagram** and **Quora**
