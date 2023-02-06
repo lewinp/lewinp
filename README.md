@@ -1,7 +1,7 @@
 [![Lewin]![Alt Text](https://user-images.githubusercontent.com/69864986/160632746-f60ebe1d-1d4f-4cee-b066-39892799eec8.gif)](https://winn.vercel.app/)
 <h1 align="center">Hello, I'm Lewin 👋🏻</h1>
 <h3 align="center">Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Beginner-lightblue)
