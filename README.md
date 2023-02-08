@@ -13,7 +13,7 @@
 ![AfterEffect](https://img.shields.io/badge/AfterEffect-Expert-blue)
 
 - 🔭 I’m currently working on **BIT BATAM** 
-- 🌱 I’m currently learning **Laravel**, **WordPress**, **Vue Js**
+- 🌱 I’m currently learning **Laravel**, **React JS**, **Vue Js**
 - ⚙️ Mastering: `.html`,`.css`,`.scss`,`.tailwind`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **Facebook**, **Instagram** and **Quora**
