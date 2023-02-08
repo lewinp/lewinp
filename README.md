@@ -1,6 +1,6 @@
 [![Lewin]![Alt Text](https://cdnb.artstation.com/p/assets/images/images/007/817/079/large/ac-masoen-acmasoen-foresttown.jpg?1508711263)](https://winn.vercel.app/)
 <h1 align="center">Hello, I'm Lewin 👾</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Ora et labora</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
