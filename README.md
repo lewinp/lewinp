@@ -12,7 +12,7 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-Expert-green)
 ![AfterEffect](https://img.shields.io/badge/AfterEffect-Expert-blue)
 
-- 🔭 I’m currently working on **BIT BATAM** 
+- 🔭 I’m currently working on **IT BTM** 
 - 🌱 I’m currently learning **Laravel**, **React JS**, **Vue Js**
 - ⚙️ Mastering: `.html`,`.css`,`.scss`,`.tailwind`
 - 👯 I’m looking to collaborate on **Open Source** projects
