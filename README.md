@@ -1,5 +1,5 @@
 [![Lewin]![Alt Text](https://cdnb.artstation.com/p/assets/images/images/007/817/079/large/ac-masoen-acmasoen-foresttown.jpg?1508711263)](https://winn.vercel.app/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=ingkon+songon+poting%2C;lam+marisi+lam+so+marsoara)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=1000&lines=Everything+Not+Saved+Will+Be+Lost)](https://git.io/typing-svg)
 <h1 align="center">Hello, I'm Lewin 👾</h1>
 <h3 align="center">Ora et labora</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif">
