@@ -44,8 +44,8 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript .I have a
 
 ### My Contribution Graph 📺
 
-<p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<p align="left">
+  <img src="https://github.com/LewinsHp/LewinsHp/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 #
