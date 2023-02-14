@@ -1,4 +1,4 @@
-# 🏄‍♂️WINNS
+# 🏄‍♂️WIN
 
 **`Lewin (Frontend Developer)`**
 
@@ -16,7 +16,7 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript. I have a
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="30">
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -38,7 +38,7 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript. I have a
 
 #
 
-### My Contribution Graph 📺
+### My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
 
 <p align="left">
   <img src="https://github.com/LewinsHp/LewinsHp/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -46,9 +46,13 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript. I have a
 
 #
 
-### 📊 Stats
+### 📊 My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LewinsHp&show_icons=true&locale=en&layout=compact&theme=gruvbox&layout" alt="LewinsHp" width="420"></p>
 
 ![Winn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LewinsHp&show_icons=true&theme=gruvbox)
+![Winn's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LewinsHp&&show_icons=true&theme=gruvbox)
+                                                                                                  
 
 #
 
