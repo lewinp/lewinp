@@ -48,8 +48,6 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript. I have a
 
 ### 📊 My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LewinsHp&show_icons=true&locale=en&layout=compact&theme=gruvbox&layout" alt="LewinsHp" width="420"></p>
-
 ![Winn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LewinsHp&show_icons=true&theme=gruvbox)
 ![Winn's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LewinsHp&&show_icons=true&theme=gruvbox)
                                                                                                   
