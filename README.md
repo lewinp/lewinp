@@ -1,8 +1,8 @@
 # 🏄‍♂️WINNS
 
-**`Lewin (Frontend/UI&UX/DesainGrafis)`**
+**`Lewin (Frontend Developer)`**
 
-I am lewin. I am a web Developer and expert in html,css and JavaScript .I have also great knowledge of UI/UX, React JS, Tailwind Css.
+I am lewin. I am a web Developer and expert in html,css and JavaScript. I have also great knowledge of UI/UX, React JS, Tailwind Css.
    <p align="left">
       <a href="https://www.youtube.com/channel/UC17jin70Pt3DCfN4E6gZzbQ">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC17jin70Pt3DCfN4E6gZzbQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -55,7 +55,7 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript .I have a
 #
 
 <details>
- <summary><h3>👨‍💻 Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Titik Nol</h3></summary>
    Realita dan idealisme seringkali memang tak sejalan.
 Hidup ini memang menarik karena kita tak pernah tahu apa yang akan terjadi besok, seperti penonton dibuat terkesima oleh lika-liku alur yang menukik drastis.
 
