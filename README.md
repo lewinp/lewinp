@@ -24,21 +24,13 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript. I have a
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain.svg" />
-<img align="left" alt="Gitlab" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" />
-<img align="left" alt="AdobeXD" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" />
-<img align="left" alt="PHPStorm" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/phpstorm/phpstorm-original.svg" />
-<img align="left" alt="Mysql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt=Tailwind" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" />
+
+
 <br />
 
 #
 
-### My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
+### Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
 
 <p align="left">
   <img src="https://github.com/LewinsHp/LewinsHp/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -46,7 +38,7 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript. I have a
 
 #
 
-### 📊 My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
+### 📊 Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
 ![Winn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LewinsHp&show_icons=true&theme=gruvbox)
                                                                                                   
