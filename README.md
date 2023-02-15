@@ -30,7 +30,7 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript. I have a
 
 #
 
-### Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="40">
+### Contribution Graph <img src="https://media.giphy.com/media/MqzWzl8wG37I2SRlhN/giphy.gif" alt="snake" width="40">
 
 <p align="left">
   <img src="https://github.com/LewinsHp/LewinsHp/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
