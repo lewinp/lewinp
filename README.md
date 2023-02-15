@@ -12,6 +12,8 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript. I have a
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Lewinshp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/LewinsHp?tab=repositories">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Lewinshp?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://github.com/LewinsHp/LewinsHp">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
    </p>
 
 ---
