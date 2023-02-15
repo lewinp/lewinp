@@ -1,4 +1,4 @@
-# 🏄‍♂️WIN
+# 🪐WIN
 
 **`Lewin (Frontend Developer)`**
 
