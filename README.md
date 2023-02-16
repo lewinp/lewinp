@@ -1,4 +1,4 @@
-# 🪐WIN
+# 🏯WIN
 
 **`Lewin (Frontend Developer)`**
 
@@ -48,7 +48,7 @@ I am lewin. I am a web Developer and expert in html,css and JavaScript. I have a
 #
 
 <details>
- <summary><h3>👨‍💻 Titik Nol</h3></summary>
+ <summary><h3>⛩️Titik Nol</h3></summary>
    Realita dan idealisme seringkali memang tak sejalan.
 Hidup ini memang menarik karena kita tak pernah tahu apa yang akan terjadi besok, seperti penonton dibuat terkesima oleh lika-liku alur yang menukik drastis.
 
