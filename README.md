@@ -53,7 +53,7 @@ We live in this Infinite Multiverse. I don't know which one is real me, or am I 
 Hidup ini memang menarik karena kita tak pernah tahu apa yang akan terjadi besok, seperti penonton dibuat terkesima oleh lika-liku alur yang menukik drastis.
 
 Jangan sampai padam mimpi-mimpi itu, bagaimanapun terjangan realita yang menimpa.
-Justru karena masih ada mimpi , kita jadi punya alasan untuk terus hidup, terus maju, teru berjalan, terus mengejar. Tanpa mimpi sama sekali, apa pula arti hidup ini?
+Justru karena masih ada mimpi , kita jadi punya alasan untuk terus hidup, terus maju, terus berjalan, terus mengejar. Tanpa mimpi sama sekali, apa pula arti hidup ini?
 
 Ada aksi pasti ada reaksi. Ada perbuatan pasti ada balasan.
 Kehilangan justru membuka mata lebih lebar. Kehilangan adalah untuk menemukan.
