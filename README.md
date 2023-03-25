@@ -42,7 +42,7 @@ We live in this Infinite Multiverse. I don't know which one is real me, or am I 
 
 ### 📊 Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-![Winn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LewinsHp&show_icons=true&theme=gruvbox)
+![Win GitHub Stats](https://github-readme-stats.vercel.app/api?username=lewinp&show_icons=true&theme=gruvbox)
                                                                                                   
 
 #
